@@ -1,0 +1,36 @@
+Explicación.
+
+
+Variables: Es la cual se almacena algún carácter y puede cambiar.  Para declarar una variable se utiliza "var" espacio seguido de nombre que se le vaya a asignar la variable. Seguido "=" igual y el valor que se asigne.
+
+
+
+Por ejemplo 
+
+
+
+var nombre = 8.
+
+
+
+Strings: Es un tipo de dato de los varios que existe significa que son cadenas de texto que estan en comillas simples '' o dobles "".
+
+
+
+
+
+por ejemplo:
+
+
+
+var nombre = 'juan';
+
+
+
+Función (argumento, return): una función son declaraciones que se utilizan para reducir el codigo ya que solo se llama a función y no se repite el código dentro de ella conseguimos el código que se ejecutara también tiene argumento, son las variables que puede llevar o no. el return nos imprimir nos muestra en pantalla la repuesta del código.
+
+
+
+
+
+declaración if : se utiliza para hacer comparaciones en y que no indique si es verdadero o falso. Dependiendo de eso se tomará acciones. 
