@@ -1,0 +1,35 @@
+Que es un for?
+
+Es un bucle que nos sirve para burcar expleciones y evaluar hasta dar con la adecuada.
+
+ejemplo 
+
+for (let i = 0; i<10; i++){
+}
+esto lo que nos indica es que:
+(let i=0) aqui estamos declarando una varible y al mismo tiempo le estamos asignando un valor.
+
+(i<10) aqui estamos dandole una condicion que si 'i' es menor que '10' que siga repitiendo hasta que 'i' llegue  a '9'.
+
+(i++) aqui estamos indicando que 'i' va aumentar cada vez que se repita hasta que 'i' llegue a '9'.
+
+
+
+Que son los operadores logico?
+los operadores logico nos ayuda a comparar condiciones si son verdadera (true) o falsa (false). tambien tenemos uno que si es true no de vuelve falso o al contrario esa se explesa con el signo (!), el operador && (and) que en español es (Y)
+
+un ejemplo para entender es que si 
+
+(a == a y b == b) son verdadera entonce nos devuelve un true. en caso contrario. si 
+(a == c y b == e) por lo cual no se cumple la condicion el nos dara falso.
+en && tiene que cumplir las dos condiciones. para que se ejecute el codigo 
+
+En cambio con || (or) que en español es  (Ó)
+si una de las condicion se cumple se ejecuta el codigo
+
+
+
+ejemplo 
+
+  
+
